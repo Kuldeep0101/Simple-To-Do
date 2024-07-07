@@ -17,7 +17,7 @@ main {
 .box {
     width: 600px;
     height: 500px;
-    background-color: #16a085;
+    background-color: #e2bd2a;
     border-radius: 5px;
     padding: 15px;
 }
@@ -58,5 +58,5 @@ main {
 .done {
     text-decoration: line-through;
     color: black;
-    background-color: #fd79a8 !important;
+    background-color: #2ecc71 !important;
 }
