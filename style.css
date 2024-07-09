@@ -8,7 +8,7 @@
 main {
     width: 100%;
     height: 100vh;
-    background-color: #bdc3c7;
+    background-color: #ADD8E6;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,7 +17,7 @@ main {
 .box {
     width: 600px;
     height: 500px;
-    background-color: #e2bd2a;
+    background-color: #ecf0f1;
     border-radius: 5px;
     padding: 15px;
 }
